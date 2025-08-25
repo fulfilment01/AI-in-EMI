@@ -1,0 +1,6 @@
+﻿server_count: 4
+SLA_seconds: 2.0
+SAMPLE_CAP: 10000
+SERVICE_EXP_SCALE: 0.5
+BASE_SERVICE: 0.8
+bootstrap_resamples: 1000
